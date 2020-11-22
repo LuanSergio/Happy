@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { Image, View, ScrollView, Text, StyleSheet, Dimensions } from 'react-native';
+import { Image, View, ScrollView, Text, StyleSheet, Dimensions, TouchableOpacity, Linking } from 'react-native';
 import MapView, { Marker } from 'react-native-maps';
 import { Feather, FontAwesome } from '@expo/vector-icons';
 import { useRoute } from '@react-navigation/native'
@@ -21,7 +21,7 @@ interface Orphanage {
   about: string;
   instructions: string;
   opening_hours: string;
-  open_on_weekend: boolean;
+  open_on_weekends: boolean;
   images: Array<{
     id: number;
     url: string;
@@ -46,6 +46,10 @@ export default function OrphanageDetails() {
         <Text style={styles.description}>Carregando...</Text>
       </View>
     )
+  }
+
+  function handleOpenGoogleMapRoutes() {
+    Linking.openURL(`https://www.google.com/maps/dir/?api=1&destination=${orphanage?.latitude},${orphanage?.longitude}`)
   }
 
   return (
@@ -91,9 +95,9 @@ export default function OrphanageDetails() {
             />
           </MapView>
 
-          <View style={styles.routesContainer}>
+          <TouchableOpacity onPress={handleOpenGoogleMapRoutes} style={styles.routesContainer}>
             <Text style={styles.routesText}>Ver rotas no Google Maps</Text>
-          </View>
+          </TouchableOpacity>
         </View>
 
         <View style={styles.separator} />
@@ -108,15 +112,16 @@ export default function OrphanageDetails() {
           </View>
 
 
-          {orphanage.open_on_weekend ? (
+          {orphanage.open_on_weekends ? (
             <View style={[styles.scheduleItem, styles.scheduleItemGreen]}>
               <Feather name="info" size={40} color="#39CC83" />
               <Text style={[styles.scheduleText, styles.scheduleTextGreen]}>Atendemos fim de semana</Text>
             </View>
           ) : (
-              <View style={[styles.scheduleItem, styles.scheduleItemGreen]}>
-                <Feather name="info" size={40} color="#39CC83" />
-                <Text style={[styles.scheduleText, styles.scheduleTextGreen]}>Atendemos fim de semana</Text>
+
+              < View style={[styles.scheduleItem, styles.scheduleItemRed]}>
+                <Feather name="info" size={40} color="#FF669D" />
+                <Text style={[styles.scheduleText, styles.scheduleTextRed]}>Não Atendemos fim de semana</Text>
               </View>
             )}
         </View>
@@ -126,7 +131,7 @@ export default function OrphanageDetails() {
           <Text style={styles.contactButtonText}>Entrar em contato</Text>
         </RectButton> */}
       </View>
-    </ScrollView>
+    </ScrollView >
   )
 }
 
@@ -239,6 +244,10 @@ const styles = StyleSheet.create({
 
   scheduleTextGreen: {
     color: '#37C77F'
+  },
+
+  scheduleTextRed: {
+    color: '#FF669D'
   },
 
   contactButton: {
