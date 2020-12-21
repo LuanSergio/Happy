@@ -12,7 +12,7 @@
   <img  src="https://github.com/luansergiomattos/Happy/blob/master/readme/happy.png" />
 </div>
 
-<br>
+<p>&nbsp;</p>
 
 <p align="center">
   <a href="#page_facing_up-About"><strong>About</strong></a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
