@@ -1,6 +1,6 @@
 <h1 align="center">
-  <a href="https://github.com/luansergiomattos/Happy/blob/master/readme/logo.png">	
-    <img alt="Happy" title="Happy" src="" />
+  <a href="https://happy-nlw-web.netlify.app/">	
+    <img alt="Happy" title="Happy" src="https://github.com/luansergiomattos/Happy/blob/master/readme/logo.png" />
   </a>
 </h1>
 
@@ -23,7 +23,7 @@
 ## :page_facing_up: About
 Happy is an application that connects people to institutional care homes.
 
-**This application is part of NLW.**
+**This application is part of NLW.** <br>
 NLW is a free online experience with lots of content and challenges to help developers improve their skills. 
 
 NLW is a project created by [Rocketseat](https://blog.rocketseat.com.br/primeira-next-level-week/).
