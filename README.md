@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://happy-nlw-web.netlify.app/">	
+  <a href="https://github.com/luansergiomattos/Happy/blob/master/readme/logo.png">	
     <img alt="Happy" title="Happy" src="" />
   </a>
 </h1>
@@ -9,7 +9,7 @@
 </h4>
 
 <div align="center">
-  <img  src="https://i.imgur.com/TNe6eZG.png" />
+  <img  src="https://github.com/luansergiomattos/Happy/blob/master/readme/happy.png" />
 </div>
 
 <p align="center">
@@ -29,7 +29,7 @@ NLW is a free online experience with lots of content and challenges to help deve
 NLW is a project created by [Rocketseat](https://blog.rocketseat.com.br/primeira-next-level-week/).
 
 <div align="center">
-  <img  src="https://i.imgur.com/TNe6eZG.png" />
+  <img  src="https://github.com/luansergiomattos/Happy/blob/master/readme/division.png" />
 </div>
 
 
@@ -41,7 +41,7 @@ You can acces the layout design on figma on the links below:
 **Note:** You will need a figma account to access the layout, but you can create one for free 
 
 <div align="center">
-  <img  src="https://i.imgur.com/TNe6eZG.png" />
+  <img  src="https://github.com/luansergiomattos/Happy/blob/master/readme/division.png" />
 </div>
 
 ## :robot: Technologies
@@ -55,7 +55,7 @@ You can acces the layout design on figma on the links below:
 - [React](https://reactjs.org/)
 
 <div align="center">
-  <img  src="https://i.imgur.com/TNe6eZG.png" />
+  <img  src="https://github.com/luansergiomattos/Happy/blob/master/readme/division.png" />
 </div>
 
 ## :man_technologist: Running Locally
@@ -120,7 +120,7 @@ $ yarn start
 **Note:** When you run the mobile aplication you must connect it to an android emulator or your own smartphone, [click here](https://medium.com/@webcore1/how-run-expo-for-react-native-on-your-ios-device-and-first-impressions-49882c38763d) for more details.
 
 <div align="center">
-  <img  src="https://i.imgur.com/TNe6eZG.png" />
+  <img  src="https://github.com/luansergiomattos/Happy/blob/master/readme/division.png" />
 </div>
 
 ## :memo: License
