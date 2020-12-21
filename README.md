@@ -4,13 +4,13 @@
   </a>
 </h1>
 
-<h4 align="center">
-  Happy is an application that connects people to institutional care homes.
-</h4>
-
 <div align="center">
   <img  src="https://github.com/luansergiomattos/Happy/blob/master/readme/happy.png" />
 </div>
+
+<h4 align="center">
+  Happy is an application that connects people to institutional care homes.
+</h4>
 
 <p align="center">
   <a href="#page_facing_up-About"><strong>Preview</strong></a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -20,20 +20,26 @@
   <a href="#memo-License"><strong>License</strong></a>
 </p>
 
+<div align="center">
+  <img  src="https://github.com/luansergiomattos/Happy/blob/master/readme/division.png" />
+</div>
+
 ## :page_facing_up: About
 Happy is an application that connects people to institutional care homes.
 
-**This application is part of NLW.** <br>
-NLW is a free online experience with lots of content and challenges to help developers improve their skills. 
+**This application is part of NLW.**
 
+NLW is a free online experience with lots of content and challenges to help developers improve their skills. 
 NLW is a project created by [Rocketseat](https://blog.rocketseat.com.br/primeira-next-level-week/).
 
 <div align="center">
   <img  src="https://github.com/luansergiomattos/Happy/blob/master/readme/division.png" />
 </div>
 
-
 ## :art: Layout
+<div align="center">
+  <img  src="https://github.com/luansergiomattos/Happy/blob/master/readme/layout.png" />
+</div>
 You can acces the layout design on figma on the links below:
 - [Layout Web](https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web?node-id=0%3A1) 
 - [Layout Mobile](https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile?node-id=0%3A1) 
