@@ -9,7 +9,9 @@
 </h4>
 
 <div align="center">
-  <img  src="https://github.com/luansergiomattos/Happy/blob/master/readme/happy.png" />
+  <a href="https://happy-nlw-web.netlify.app/">	
+    <img  src="https://github.com/luansergiomattos/Happy/blob/master/readme/happy.png" />
+  </a>
 </div>
 
 <p>&nbsp;</p>
@@ -40,7 +42,9 @@ NLW is a project created by [Rocketseat](https://blog.rocketseat.com.br/primeira
 
 ## :art: Layout
 <div align="center">
-  <img  src="https://github.com/luansergiomattos/Happy/blob/master/readme/layout.png" />
+  <a href="https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web?node-id=0%3A1">
+    <img  src="https://github.com/luansergiomattos/Happy/blob/master/readme/layout.png" />
+  </a>
 </div>
 You can acces the layout design on figma on the links below:
 
