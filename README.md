@@ -33,7 +33,7 @@ Happy is an application that connects people to institutional care homes.
 
 <div align="center">
   <img  src="https://github.com/luansergiomattos/Happy/blob/master/readme/nlw.svg" />
-  <span><strong>This application is part of NLW.</strong></span>
+  <p><strong>This application is part of NLW.</strong></p>
 </div>
 
 
