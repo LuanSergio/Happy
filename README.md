@@ -32,7 +32,7 @@
 Happy is an application that connects people to institutional care homes. It was created with the purpose of training React, React Native and NodeJS.
 
 #### Features:
-You can register new orphanages. and view previously registered orphanages. 
+You can register new orphanages. and view previously registered orphanages. <br>
 Each orphanage contains photos, opening hours, information about the institution and a map position that you can interactively mark.
 
 <div align="center">
