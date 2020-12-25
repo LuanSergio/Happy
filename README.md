@@ -29,16 +29,16 @@
 </div>
 
 ## :page_facing_up: About
-<p>Happy is an application that connects people to institutional care homes.</p>
+Happy is an application that connects people to institutional care homes.
 
 <div align="center">
   <img  src="https://github.com/luansergiomattos/Happy/blob/master/readme/nlw.svg" />
-  <p>**This application is part of NLW.**</p>
+  <span><strong>This application is part of NLW.</strong></span>
 </div>
 
 
-<p>NLW is a free online experience with lots of content and challenges to help developers improve their skills. <br>
-NLW is a project created by [Rocketseat](https://blog.rocketseat.com.br/primeira-next-level-week/).</p>
+NLW is a free online experience with lots of content and challenges to help developers improve their skills. <br>
+NLW is a project created by [Rocketseat](https://blog.rocketseat.com.br/primeira-next-level-week/).
 
 <div align="center">
   <img  src="https://github.com/luansergiomattos/Happy/blob/master/readme/division.png" />
@@ -50,19 +50,19 @@ NLW is a project created by [Rocketseat](https://blog.rocketseat.com.br/primeira
     <img  src="https://github.com/luansergiomattos/Happy/blob/master/readme/layout.png" />
   </a>
 </div>
-<p>You can acces the layout design on figma on the links below:</p>
+You can acces the layout design on figma on the links below:
 
 - [Layout Web](https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web?node-id=0%3A1) 
 - [Layout Mobile](https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile?node-id=0%3A1) 
 
-<p>**Note:** You will need a figma account to access the layout, but you can create one for free </p>
+**Note:** You will need a figma account to access the layout, but you can create one for free
 
 <div align="center">
   <img  src="https://github.com/luansergiomattos/Happy/blob/master/readme/division.png" />
 </div>
 
 ## :robot: Technologies
-<p>Technologies that I used:</p>
+Technologies that I used:
 
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
@@ -76,7 +76,7 @@ NLW is a project created by [Rocketseat](https://blog.rocketseat.com.br/primeira
 </div>
 
 ## :man_technologist: Running Locally
-<p>You must have <a href="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git">Git</a>, <a href="https://nodejs.org/en/">Node</a> and <a href="https://yarnpkg.com/">Yarn</a> installed.
+You must have [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git), [NodeJS](https://nodejs.org/en/) and [Yarn](https://yarnpkg.com/) installed.
 
 ### Clone the repository and navigate to the folder
 ```bash
