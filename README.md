@@ -29,13 +29,16 @@
 </div>
 
 ## :page_facing_up: About
-Happy is an application that connects people to institutional care homes.
+Happy is an application that connects people to institutional care homes. 
+The application was created merely with the purpose of training React, React Native and NodeJS.
 
-<div align="center">
+### :page_facing_up: features
+You can create, or view previously registered orphanages. Each orphanage contains photos, opening hours and information about the institution.
+
+<div align="left">
   <img  src="https://github.com/luansergiomattos/Happy/blob/master/readme/nlw.svg" />
   <p><strong>This application is part of NLW.</strong></p>
 </div>
-
 
 NLW is a free online experience with lots of content and challenges to help developers improve their skills. <br>
 NLW is a project created by [Rocketseat](https://blog.rocketseat.com.br/primeira-next-level-week/).
