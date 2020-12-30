@@ -35,7 +35,7 @@ Happy is an application that connects people to institutional care homes. It was
 You can register new orphanages. and view previously registered orphanages. <br>
 Each orphanage contains photos, opening hours, information about the institution and a map position that you can interactively mark.
 
-####IMPORTANT NOTE:
+#### IMPORTANT NOTE:
 I'm not using an external filestore like Amazon S3, so when we upload a imagem to create a orphanage, heroku will remove all images when it restarts (which Heroku will do every day), since Heroku does not support file uploads.
 
 <div align="center">
