@@ -36,7 +36,7 @@ You can register new orphanages. and view previously registered orphanages. <br>
 Each orphanage contains photos, opening hours, information about the institution and a map position that you can interactively mark.
 
 #### IMPORTANT NOTE:
-I'm not using an external filestore like Amazon S3, so when we upload a imagem to create a orphanage, heroku will remove all images when it restarts (which Heroku will do every day), since Heroku does not support file uploads.
+I'm not using an external filestore like Amazon S3, so when we upload a imagem to create a orphanage, heroku will remove all images when it restarts (which it will do every day), since Heroku does not support file uploads.
 
 <div align="center">
   <img  src="https://github.com/luansergiomattos/Happy/blob/master/readme/nlw.svg" />
