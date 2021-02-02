@@ -44,12 +44,12 @@ I'm not using an external filestore like Amazon S3, so when we upload a imagem t
   <p>&nbsp;</p>
 </div>
 
+## :rocket: NLW
+
 <div align="center">
   <img  src="https://github.com/luansergiomattos/Happy/blob/master/readme/nlw.svg" />
   <p><strong>This application is part of NLW.</strong></p>
 </div>
-
-## :rocket: NLW
 
 NLW is a free online experience with lots of content and challenges to help developers improve their skills. <br>
 NLW is a project created by [Rocketseat](https://blog.rocketseat.com.br/primeira-next-level-week/) .
