@@ -40,6 +40,7 @@ I'm not using an external filestore like Amazon S3, so when we upload a imagem t
 
 <div align="center">
   <img  src="https://github.com/luansergiomattos/Happy/blob/master/readme/division.png" />
+  <p>&nbsp;</p>
 </div>
 
 <div align="center">
