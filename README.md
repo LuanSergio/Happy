@@ -47,9 +47,10 @@ I'm not using an external filestore like Amazon S3, so when we upload a imagem t
   <img  src="https://github.com/luansergiomattos/Happy/blob/master/readme/nlw.svg" />
   <p><strong>This application is part of NLW.</strong></p>
 </div>
-<br>
+
+
 NLW is a free online experience with lots of content and challenges to help developers improve their skills. <br>
-NLW is a project created by [Rocketseat](https://blog.rocketseat.com.br/primeira-next-level-week/).
+NLW is a project created by [Rocketseat](https://blog.rocketseat.com.br/primeira-next-level-week/) .
 
 <div align="center">
   <img  src="https://github.com/luansergiomattos/Happy/blob/master/readme/division.png" />
