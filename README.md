@@ -96,7 +96,7 @@ Libraries:
 
 - [yup](https://github.com/jquense/yup)
 - [axios](https://axios-http.com/)
-- [leaflet](https://leafletjs.com/)
+- [mapbox](https://www.mapbox.com/)
 
 <div align="center">
   <img  src="/docs/division.png" />
