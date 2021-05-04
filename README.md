@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://happy-nlw-web.netlify.app/">	
-    <img alt="Happy" title="Happy" src="https://github.com/luansergiomattos/Happy/blob/master/readme/logo.png" />
+    <img alt="Happy" title="Happy" src="/docs/logo.png" />
   </a>
 </h1>
 
@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://happy-nlw-web.netlify.app/">	
-    <img  src="https://github.com/luansergiomattos/Happy/blob/master/readme/happy.png" />
+    <img  src="/docs/happy.png" />
   </a>
 </div>
 
@@ -26,7 +26,7 @@
 </p>
 
 <div align="center">
-  <img  src="https://github.com/luansergiomattos/Happy/blob/master/readme/division.png" />
+  <img  src="/docs/division.png" />
 </div>
 
 ## :page_facing_up: About
@@ -43,14 +43,14 @@ Each orphanage contains photos, opening hours, information about the institution
 I'm not using an external filestore like Amazon S3, so when we upload a imagem to create a orphanage, heroku will remove all images when it restarts (which it will do every day), since Heroku does not support file uploads. However, you can still upload an image when creating a new orphanage to test the feature.
 
 <div align="center">
-  <img  src="https://github.com/luansergiomattos/Happy/blob/master/readme/division.png" />
+  <img  src="/docs/division.png" />
   <p>&nbsp;</p>
 </div>
 
 ## :rocket: NLW
 
 <div align="center">
-  <img  src="https://github.com/luansergiomattos/Happy/blob/master/readme/nlw.svg" />
+  <img  src="/docs/nlw.svg" />
   <p><strong>This application is part of NLW.</strong></p>
 </div>
 
@@ -58,14 +58,14 @@ NLW is a free online experience with lots of content and challenges to help deve
 NLW is a project created by [Rocketseat](https://blog.rocketseat.com.br/primeira-next-level-week/) .
 
 <div align="center">
-  <img  src="https://github.com/luansergiomattos/Happy/blob/master/readme/division.png" />
+  <img  src="/docs/division.png" />
 </div>
 
 ## :art: Layout
 
 <div align="center">
   <a href="https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web?node-id=0%3A1">
-    <img  src="https://github.com/luansergiomattos/Happy/blob/master/readme/layout.png" />
+    <img  src="/docs/layout.png" />
   </a>
 </div>
 You can access the layout design on figma on the links below:
@@ -76,7 +76,7 @@ You can access the layout design on figma on the links below:
 **Note:** You will need a figma account to access the layout, but you can create one for free
 
 <div align="center">
-  <img  src="https://github.com/luansergiomattos/Happy/blob/master/readme/division.png" />
+  <img  src="/docs/division.png" />
 </div>
 
 ## :robot: Technologies and libraries
@@ -99,7 +99,7 @@ Libraries:
 - [leaflet](https://leafletjs.com/)
 
 <div align="center">
-  <img  src="https://github.com/luansergiomattos/Happy/blob/master/readme/division.png" />
+  <img  src="/docs/division.png" />
 </div>
 
 ## :man_technologist: Running Locally
@@ -170,7 +170,7 @@ $ yarn start
 **Note:** When you run the mobile application you must connect it to an android emulator or your own smartphone, [click here](https://medium.com/@webcore1/how-run-expo-for-react-native-on-your-ios-device-and-first-impressions-49882c38763d) for more details.
 
 <div align="center">
-  <img  src="https://github.com/luansergiomattos/Happy/blob/master/readme/division.png" />
+  <img  src="/docs/division.png" />
 </div>
 
 ## :memo: License
