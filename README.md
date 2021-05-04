@@ -68,7 +68,7 @@ NLW is a project created by [Rocketseat](https://blog.rocketseat.com.br/primeira
     <img  src="https://github.com/luansergiomattos/Happy/blob/master/readme/layout.png" />
   </a>
 </div>
-You can acces the layout design on figma on the links below:
+You can access the layout design on figma on the links below:
 
 - [Layout Web](https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web?node-id=0%3A1)
 - [Layout Mobile](https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile?node-id=0%3A1)
@@ -125,10 +125,10 @@ $ cd web
 # Install dependencies
 $ yarn install
 
-# Run the aplication locally
+# Run the application locally
 $ yarn start
 
-# Build the aplication for production
+# Build the application for production
 $ yarn build
 ```
 
@@ -144,10 +144,10 @@ $ yarn install
 # Run your migrations
 yarn typeorm migration:run
 
-# Run the aplication locally
+# Run the application locally
 $ yarn start
 
-# Build the aplication for production
+# Build the application for production
 $ yarn build
 ```
 
@@ -163,11 +163,11 @@ $ cd mobile
 # Install dependencies
 $ yarn install
 
-# Run the aplication locally
+# Run the application locally
 $ yarn start
 ```
 
-**Note:** When you run the mobile aplication you must connect it to an android emulator or your own smartphone, [click here](https://medium.com/@webcore1/how-run-expo-for-react-native-on-your-ios-device-and-first-impressions-49882c38763d) for more details.
+**Note:** When you run the mobile application you must connect it to an android emulator or your own smartphone, [click here](https://medium.com/@webcore1/how-run-expo-for-react-native-on-your-ios-device-and-first-impressions-49882c38763d) for more details.
 
 <div align="center">
   <img  src="https://github.com/luansergiomattos/Happy/blob/master/readme/division.png" />
