@@ -35,7 +35,7 @@ Happy is an application that connects people to institutional care homes. It was
 
 #### Features:
 
-You can register new orphanages. and view previously registered orphanages. <br>
+You can register new orphanages and view previously registered orphanages. <br>
 Each orphanage contains photos, opening hours, information about the institution and a map position that you can interactively mark.
 
 #### IMPORTANT NOTE:
